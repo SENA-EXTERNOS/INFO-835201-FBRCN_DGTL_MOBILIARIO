@@ -1,7 +1,7 @@
-# **sena-base-info-2021 v2.0.0**
+# **Información de programa. Técnico. Fabricación digital de mobiliario**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://sena-externos.github.io/INFO-TC-835201-FBRCN_DGTL_MOBILIARIO/](https://sena-externos.github.io/INFO-TC-835201-FBRCN_DGTL_MOBILIARIO/)
 
 #
